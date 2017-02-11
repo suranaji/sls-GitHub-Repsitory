@@ -1,5 +1,5 @@
 /* Code for word count */
-
+#######
 
 input_lines = LOAD '/tmp/word.txt' AS (line:chararray)
 
